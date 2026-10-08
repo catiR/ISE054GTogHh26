@@ -4,16 +4,35 @@
 
 ![bók](img/1.png)
 
+===============
+
 ![stillingar](img/2.png)
+
+===============
 
 ![talaðu](img/3.png)
 
+===============
+
 ![æfing](img/4.png)
 
+===============
+
 ![svör](img/5.png)
+
+===============
 
 ## Sérsniðnar æfingar (aukaæfing)
 
 ![veldu](img/6.png)
 
+===============
+
 ![æfing2](img/7.png)
+
+===============
+
+## Hvað sagði ég? (aukaæfing)
+
+![hse](img/hse1.png)
+

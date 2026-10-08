@@ -1,0 +1,1 @@
+- hefur ekki verið fært hingað, skoðið [hérna neðst](https://github.com/catiR/ISE054GTogHh26/tree/main/sjalfsnam)
