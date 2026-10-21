@@ -1,38 +1,11 @@
-## [https://colab.research.google.com/drive/1i2evlPtURrt9d17rc_hpPJU0Zgao_5ZI?usp=sharing](https://colab.research.google.com/drive/1i2evlPtURrt9d17rc_hpPJU0Zgao_5ZI?usp=sharing)
-
+# Kaflar 1-10 + sérsniðnar æfingar: [https://clr-toh26.hf.space/](https://clr-toh26.hf.space/)
 ## Bók - Skynjun sérhljóða og samhljóða
 
-![bók](img/1.png)
-
 ===============
 
-![stillingar](img/2.png)
+## Aukaæfing: Hvað sagði ég? 
 
-===============
-
-![talaðu](img/3.png)
-
-===============
-
-![æfing](img/4.png)
-
-===============
-
-![svör](img/5.png)
-
-===============
-
-## Sérsniðnar æfingar (aukaæfing)
-
-![veldu](img/6.png)
-
-===============
-
-![æfing2](img/7.png)
-
-===============
-
-## Hvað sagði ég? (aukaæfing)
+### Neðst á síðunni: [https://colab.research.google.com/drive/1i2evlPtURrt9d17rc_hpPJU0Zgao_5ZI?usp=sharing](https://colab.research.google.com/drive/1i2evlPtURrt9d17rc_hpPJU0Zgao_5ZI?usp=sharing)
 
 ![hse](img/hse1.png)
 

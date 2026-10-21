@@ -4,3 +4,4 @@
 
 ### 3. `> python bookalign.py` --> `skynjun_shsh_AlignDict__HF.json`
 
+#### Note. Due to the specific forced alignment output as well as clear pauses between words in these recordings, large padding such as 0.5 seconds is recommended to add to these timestamps before segmenting audio into words.
